@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ASUS
+ * @author Muhammad Anugrah Pratama
  */
 public class KelilingLingkaran {
     private static final double phi = 22/7;

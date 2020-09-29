@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ASUS
+ * @author Muhammad Anugrah Pratama
  */
 public class LuasPersegiPanjang {
     public static void main(String[] args) {
