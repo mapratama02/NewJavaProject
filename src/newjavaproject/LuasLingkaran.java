@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author Muhammad Anugrah Pratama
  */
 public class LuasLingkaran {
-    private static final double phi = 22/7;
+    private static final double phi = Math.PI;
     
     public static void main(String[] args) {
         double jari_jari;
